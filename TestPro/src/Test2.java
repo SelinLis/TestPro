@@ -9,5 +9,6 @@ public class Test2 {
 		System.out.println("Your name:"+name);
 		System.out.println("Your born year:"+bornYear);
 		gg.close();
+		System.out.println("Hello");
 	}
 }
